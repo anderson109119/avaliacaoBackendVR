@@ -1,0 +1,11 @@
+source 'http://rubygems.org'
+
+gem 'httparty', '~> 0.15.6'
+gem 'json'
+gem 'cucumber'
+#gem 'capybara'
+gem 'rspec'
+gem 'rake'
+gem 'pry'
+gem 'site_prism', '~> 2.9'
+gem 'rspec-rails', '~> 3.0.0'
